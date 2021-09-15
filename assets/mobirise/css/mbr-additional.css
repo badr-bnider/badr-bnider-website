@@ -1725,7 +1725,7 @@ a {
 }
 .cid-sJ5wlNelbx .card-wrapper {
   border-radius: 4px;
-  background: #f1f1f1;
+  background: #353535;
 }
 @media (max-width: 992px) {
   .cid-sJ5wlNelbx .card-wrapper {
@@ -1741,6 +1741,13 @@ a {
   .cid-sJ5wlNelbx .card-wrapper {
     padding: 1rem;
   }
+}
+.cid-sJ5wlNelbx .card-title {
+  color: #6ffedc;
+}
+.cid-sJ5wlNelbx .mbr-text,
+.cid-sJ5wlNelbx .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-sJ59s8Ivok {
   padding-top: 2rem;
